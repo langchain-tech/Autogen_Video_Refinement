@@ -1,7 +1,6 @@
 # Autogen Video Refinement
 
-This application performs various tasks on a video file such as downloading the video, converting speech to text, checking video duration, creating a short transcription, and creating a short video.
-
+The application is tailored to transform extended videos into succinct yet informative clips. It's a valuable tool for editors tasked with navigating through hours of footage, enabling them to streamline the process and craft engaging short films or highlight reels more efficiently.
 ## Features
 
 1. **Download Video:** Downloads a video file from a provided link.
