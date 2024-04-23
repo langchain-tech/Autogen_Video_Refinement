@@ -74,6 +74,10 @@ This application performs various tasks on a video file such as downloading the 
 ## Usage
 
 Add a video url in the autogen's final prompt.
+Sample Video Link
+```
+https://github.com/langschain/Autogen_Video_Refinement/raw/master/sample_video.mp4
+```
 
 
 ## License
