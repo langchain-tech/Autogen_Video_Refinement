@@ -5,7 +5,7 @@ This application performs various tasks on a video file such as downloading the 
 ## Features
 
 1. **Download Video:** Downloads a video file from a provided link.
-2. **Speech Recognition:** Converts the speech in the video to text and saves the transcription as a script file.
+2. **Speech Recognition:** Utilizes the whisper model to extract utterances from the video and converts them to text, saving the transcription as a script file.
 3. **Video Duration:** Determines the duration of the video.
 4. **Short Transcription:** Creates a short transcription from the full transcription that highlights the best parts of the video.
 5. **Short Video Creation:** Creates a short video by joining segments from the original video based on the short transcription.
