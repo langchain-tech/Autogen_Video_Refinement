@@ -78,9 +78,9 @@ Add a video url in the autogen's final prompt.
 
 ## License
 
-MIT License
+[MIT License](https://opensource.org/license/mit)
 
-Copyright (c) [2024] [Autogen Video Refinement]
+Copyright (c) [2024] [Langschain / Autogen Video Refinement]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
