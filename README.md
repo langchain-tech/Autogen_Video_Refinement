@@ -10,6 +10,13 @@ The application is tailored to transform extended videos into succinct yet infor
 4. **📝 Short Transcription:** Creates a short transcription from the full transcription that highlights the best parts of the video.
 5. **🎥 Short Video** Creation: Creates a short video by joining segments from the original video based on the short transcription.
 
+## Tecnologies Used:
+
+1. [**MoviePy**](https://pypi.org/project/moviepy/) - Video editing library
+2. [**PyAutoGen**](https://microsoft.github.io/autogen/) - Library for automating software tasks. (Microsoft Autogen)
+3. [**Whisper**](https://github.com/openai/whisper) - Automatic speech recognition model
+4. [**OpenAI**](https://openai.com/) - API for interacting with OpenAI services.
+
 ## Installation
 **Prerequisites:**
 
