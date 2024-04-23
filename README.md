@@ -3,11 +3,12 @@
 The application is tailored to transform extended videos into succinct yet informative clips. It's a valuable tool for editors tasked with navigating through hours of footage, enabling them to streamline the process and craft engaging short films or highlight reels more efficiently.
 ## Features
 
-1. **Download Video:** Downloads a video file from a provided link.
-2. **Speech Recognition:** Utilizes the whisper model to extract utterances from the video and converts them to text, saving the transcription as a script file.
-3. **Video Duration:** Determines the duration of the video.
-4. **Short Transcription:** Creates a short transcription from the full transcription that highlights the best parts of the video.
-5. **Short Video Creation:** Creates a short video by joining segments from the original video based on the short transcription.
+
+1. **📥 Download Video:** Downloads a video file from a provided link.
+2. **🗣️ Speech Recognition:** Utilizes the whisper model to extract utterances from the video and converts them to text, saving the transcription as a script file.
+3. **⏱️ Video Duration:** Determines the duration of the video.
+4. **📝 Short Transcription:** Creates a short transcription from the full transcription that highlights the best parts of the video.
+5. **🎥 Short Video** Creation: Creates a short video by joining segments from the original video based on the short transcription.
 
 ## Installation
 **Prerequisites:**
@@ -64,6 +65,7 @@ The application is tailored to transform extended videos into succinct yet infor
         Bash
         
             python main.py
+    ![image](https://github.com/langschain/Autogen_Video_Refinement/assets/100914015/51221352-d6aa-4b76-8e58-e97001d955e8)
 
 **Additional Notes:**
 
