@@ -157,6 +157,8 @@ def merge_required_clips(filepath: Annotated[str, "path of the video file"], seg
 
 
 
+
+## Provide a video url in the prompt
 results = user_proxy.initiate_chat(
     assistant,
     message=f"""
